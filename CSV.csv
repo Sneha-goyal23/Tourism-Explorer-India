@@ -1,0 +1,788 @@
+STATE_UT,District,Latitude,Longitude,Summer_Suitability,Monsoon_Suitability,Post_Monsoon_Suitability,Winter_Suitability
+ANDHRA PRADESH,Alluri Sitharama Raju,18.08,82.67,Moderately Suitable,Suitable,Suitable,Suitable
+ANDHRA PRADESH,Anakapalli,17.69,83,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Anantapuramu,14.68,77.6,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,Annamayya,14.05,78.75,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,Bapatla,15.9,80.47,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Chittoor,13.22,79.1,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,East Godavari,17,81.78,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Eluru,16.71,81.1,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Guntur,16.31,80.44,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Kakinada,16.99,82.25,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Konaseema,16.58,82.01,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Krishna,16.19,81.14,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Kurnool,15.83,78.04,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,Nandyal,15.48,78.48,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,NTR,16.51,80.65,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Palnadu,16.24,80.05,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Parvathipuram Manyam,18.78,83.43,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Prakasam,15.5,80.05,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Sri Potti Sriramulu Nellore,14.44,79.99,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Sri Sathya Sai,14.17,77.81,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,Srikakulam,18.3,83.9,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Tirupati,13.63,79.42,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,Visakhapatnam,17.69,83.22,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,Vizianagaram,18.11,83.4,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,West Godavari,16.54,81.52,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ANDHRA PRADESH,YSR Kadapa,14.47,78.82,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,Markapuram,15.74,79.27,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDHRA PRADESH,Polavaram,17.44,81.77,Moderately Suitable,Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Tawang,27.59,91.86,Suitable,Moderately Suitable,Suitable,Not Suitable
+ARUNACHAL PRADESH,West Kameng,27.26,92.41,Suitable,Moderately Suitable,Suitable,Not Suitable
+ARUNACHAL PRADESH,East Kameng,27.36,93.01,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Pakke-Kessang,27,93,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Papum Pare,27.16,93.73,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Kurung Kumey,27.99,93.13,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Kra Daadi,27.9,93.3,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Lower Subansiri,27.55,93.83,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Upper Subansiri,27.99,94.22,Suitable,Moderately Suitable,Suitable,Not Suitable
+ARUNACHAL PRADESH,West Siang,28.17,94.8,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Lepa Rada,28,94.67,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Shi Yomi,28.6,94.5,Suitable,Moderately Suitable,Suitable,Not Suitable
+ARUNACHAL PRADESH,Siang,28.4,95,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Upper Siang,28.6,95,Suitable,Moderately Suitable,Suitable,Not Suitable
+ARUNACHAL PRADESH,Lower Siang,27.65,94.7,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,East Siang,28.07,95.33,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Lower Dibang Valley,28.15,95.84,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Upper Dibang Valley,28.8,95.9,Suitable,Moderately Suitable,Suitable,Not Suitable
+ARUNACHAL PRADESH,Lohit,27.93,96.16,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Anjaw,28.07,96.82,Suitable,Moderately Suitable,Suitable,Not Suitable
+ARUNACHAL PRADESH,Namsai,27.67,95.87,Moderately Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Changlang,27.13,95.74,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Tirap,26.99,95.56,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Longding,26.85,95.33,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Kamle,27.47,93.57,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Keyi Panyor,27.3,93.7,Suitable,Not Suitable,Suitable,Suitable
+ARUNACHAL PRADESH,Bichom,27.01,92.58,Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Baksa,26.65,91.5,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Barpeta,26.32,91,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Biswanath,26.73,93.15,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Bongaigaon,26.48,90.56,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Cachar,24.83,92.78,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Charaideo,27,95,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Chirang,26.5,90.5,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Darrang,26.44,92.03,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Dhemaji,27.48,94.58,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Dhubri,26.02,89.98,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Dibrugarh,27.47,94.91,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Dima Hasao,25.17,93.02,Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Goalpara,26.17,90.62,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Golaghat,26.52,93.96,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Hailakandi,24.68,92.56,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Hojai,26,92.86,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Jorhat,26.75,94.2,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Kamrup,26.18,91.68,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Kamrup Metropolitan,26.14,91.74,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Karbi Anglong,25.84,93.43,Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Sribhumi,24.87,92.35,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Kokrajhar,26.4,90.27,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Lakhimpur,27.24,94.1,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Majuli,26.95,94.17,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Morigaon,26.25,92.34,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Nagaon,26.35,92.68,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Nalbari,26.45,91.44,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Sivasagar,26.98,94.64,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Sonitpur,26.63,92.8,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,South Salmara-Mankachar,25.95,89.97,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Tinsukia,27.49,95.36,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Udalguri,26.75,92.1,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,West Karbi Anglong,25.88,92.5,Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Bajali,26.5,91.18,Moderately Suitable,Not Suitable,Suitable,Suitable
+ASSAM,Tamulpur,26.7,91.5,Moderately Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Araria,26.15,87.52,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Arwal,25.25,84.68,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Aurangabad,24.75,84.37,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Banka,24.88,86.92,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Begusarai,25.42,86.13,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Bhagalpur,25.24,86.98,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Bhojpur,25.56,84.67,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Buxar,25.57,83.98,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Darbhanga,26.16,85.9,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,East Champaran,26.65,84.92,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Gaya,24.8,85,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Gopalganj,26.47,84.44,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Jamui,24.92,86.22,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Jehanabad,25.21,84.99,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Kaimur,25.04,83.61,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Katihar,25.54,87.57,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Khagaria,25.5,86.47,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Kishanganj,26.1,87.95,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Lakhisarai,25.17,86.1,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Madhepura,25.92,86.79,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Madhubani,26.35,86.07,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Munger,25.38,86.47,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Muzaffarpur,26.12,85.39,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Nalanda,25.2,85.52,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Nawada,24.88,85.54,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Patna,25.59,85.14,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Purnia,25.78,87.47,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Rohtas,24.95,84.03,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Saharsa,25.88,86.6,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Samastipur,25.86,85.78,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Saran,25.78,84.73,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Sheikhpura,25.14,85.84,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Sheohar,26.52,85.3,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Sitamarhi,26.59,85.49,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Siwan,26.22,84.36,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,Supaul,26.12,86.6,Not Suitable,Not Suitable,Suitable,Suitable
+BIHAR,Vaishali,25.69,85.21,Not Suitable,Moderately Suitable,Suitable,Suitable
+BIHAR,West Champaran,26.8,84.5,Not Suitable,Not Suitable,Suitable,Suitable
+CHHATTISGARH,Balod,20.73,81.2,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Baloda Bazar,21.66,82.16,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Balrampur,23.84,83.6,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Bastar,19.08,82.02,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Bemetara,21.71,81.53,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Bijapur,18.84,80.82,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Bilaspur,22.08,82.15,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Dantewada,18.9,81.35,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Dhamtari,20.71,81.55,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Durg,21.19,81.28,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Gariaband,20.63,82.06,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Gaurela-Pendra-Marwahi,22.76,81.89,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Janjgir-Champa,22.01,82.58,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Jashpur,22.89,84.14,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Kabirdham,22.01,81.25,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Kanker,20.27,81.49,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Khairagarh-Chhuikhadan-Gandai,21.42,80.98,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Kondagaon,19.6,81.66,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Korba,22.36,82.75,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Koriya,23.25,82.56,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Mahasamund,21.11,82.1,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Manendragarh-Chirmiri-Bharatpur,23.2,82.23,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Mohla-Manpur-Ambagarh Chowki,20.6,80.85,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Mungeli,22.07,81.68,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Narayanpur,19.72,81.25,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Raigarh,21.9,83.4,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Raipur,21.25,81.63,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Rajnandgaon,21.1,81.03,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Sakti,22.03,82.96,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Sarangarh-Bilaigarh,21.59,83.08,Not Suitable,Moderately Suitable,Suitable,Suitable
+CHHATTISGARH,Sukma,18.39,81.66,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Surajpur,23.22,82.87,Moderately Suitable,Suitable,Suitable,Suitable
+CHHATTISGARH,Surguja,23.12,83.2,Moderately Suitable,Suitable,Suitable,Suitable
+GOA,North Goa,15.5,73.83,Moderately Suitable,Not Suitable,Suitable,Suitable
+GOA,South Goa,15.27,73.96,Moderately Suitable,Not Suitable,Suitable,Suitable
+GUJARAT,Ahmedabad,23.02,72.57,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Amreli,21.6,71.22,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Anand,22.56,72.95,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Aravalli,23.47,73.3,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Banaskantha,24.17,72.43,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Bharuch,21.7,72.99,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Bhavnagar,21.76,72.15,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Botad,22.17,71.67,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Chhota Udaipur,22.31,74.01,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Dahod,22.84,74.26,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Dang,20.76,73.69,Moderately Suitable,Not Suitable,Suitable,Suitable
+GUJARAT,Devbhumi Dwarka,22.21,69.65,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Gandhinagar,23.22,72.65,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Gir Somnath,20.91,70.37,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Jamnagar,22.47,70.07,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Junagadh,21.52,70.46,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Kheda,22.69,72.86,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Kutch,23.25,69.67,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Mahisagar,23.13,73.61,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Mehsana,23.6,72.37,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Morbi,22.82,70.84,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Narmada,21.87,73.5,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Navsari,20.95,72.93,Moderately Suitable,Not Suitable,Suitable,Suitable
+GUJARAT,Panchmahal,22.78,73.61,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Patan,23.85,72.12,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Porbandar,21.64,69.6,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Rajkot,22.3,70.8,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Sabarkantha,23.6,72.97,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Surat,21.17,72.83,Moderately Suitable,Not Suitable,Suitable,Suitable
+GUJARAT,Surendranagar,22.73,71.64,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Tapi,21.11,73.4,Moderately Suitable,Not Suitable,Suitable,Suitable
+GUJARAT,Vadodara,22.31,73.18,Not Suitable,Moderately Suitable,Suitable,Suitable
+GUJARAT,Valsad,20.6,72.93,Moderately Suitable,Not Suitable,Suitable,Suitable
+GUJARAT,Vav-Tharad,24.4,71.63,Not Suitable,Moderately Suitable,Suitable,Suitable
+HARYANA,Ambala,30.38,76.78,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Bhiwani,28.79,76.13,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Charkhi Dadri,28.59,76.27,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Faridabad,28.41,77.31,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Fatehabad,29.52,75.45,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Gurugram,28.46,77.03,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Hansi,29.1,75.96,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Hisar,29.15,75.72,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Jhajjar,28.61,76.66,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Jind,29.32,76.31,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Kaithal,29.8,76.4,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Karnal,29.69,76.99,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Kurukshetra,29.97,76.88,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Mahendragarh,28.04,76.11,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Nuh,28.1,77,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Palwal,28.15,77.33,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Panchkula,30.69,76.86,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Panipat,29.39,76.97,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Rewari,28.2,76.62,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Rohtak,28.9,76.59,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Sirsa,29.53,75.03,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Sonipat,28.99,77.02,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HARYANA,Yamunanagar,30.13,77.28,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Bilaspur,31.34,76.76,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Chamba,32.55,76.13,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Hamirpur,31.69,76.52,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Kangra,32.22,76.32,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Kinnaur,31.54,78.28,Suitable,Moderately Suitable,Suitable,Not Suitable
+HIMACHAL PRADESH,Kullu,31.96,77.11,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Lahaul and Spiti,32.57,77.03,Suitable,Moderately Suitable,Suitable,Not Suitable
+HIMACHAL PRADESH,Mandi,31.71,76.93,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Shimla,31.1,77.17,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Sirmaur,30.56,77.3,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Solan,30.91,77.1,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+HIMACHAL PRADESH,Una,31.47,76.27,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+JHARKHAND,Bokaro,23.67,86.15,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Chatra,24.21,84.87,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Deoghar,24.48,86.7,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Dhanbad,23.8,86.43,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Dumka,24.27,87.25,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,East Singhbhum,22.8,86.2,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Garhwa,24.16,83.81,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Giridih,24.19,86.3,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Godda,24.83,87.21,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Gumla,23.04,84.54,Moderately Suitable,Suitable,Suitable,Suitable
+JHARKHAND,Hazaribagh,23.99,85.36,Moderately Suitable,Suitable,Suitable,Suitable
+JHARKHAND,Jamtara,23.96,86.8,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Khunti,23.07,85.28,Moderately Suitable,Suitable,Suitable,Suitable
+JHARKHAND,Koderma,24.47,85.59,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Latehar,23.74,84.5,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Lohardaga,23.43,84.68,Moderately Suitable,Suitable,Suitable,Suitable
+JHARKHAND,Pakur,24.64,87.84,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Palamu,24.05,84.07,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Ramgarh,23.63,85.52,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Ranchi,23.34,85.31,Moderately Suitable,Suitable,Suitable,Suitable
+JHARKHAND,Sahibganj,25.25,87.65,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Seraikela Kharsawan,22.7,85.93,Not Suitable,Moderately Suitable,Suitable,Suitable
+JHARKHAND,Simdega,22.62,84.52,Moderately Suitable,Suitable,Suitable,Suitable
+JHARKHAND,West Singhbhum,22.55,85.81,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Bagalkot,16.18,75.7,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Ballari,15.14,76.92,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Belagavi,15.85,74.5,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Bengaluru Rural,13.3,77.54,Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Bengaluru Urban,12.97,77.59,Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Bidar,17.91,77.52,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Chamarajanagar,11.93,76.94,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Chikkaballapura,13.43,77.73,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Chikkamagaluru,13.32,75.77,Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Chitradurga,14.23,76.4,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Dakshina Kannada,12.91,74.86,Moderately Suitable,Not Suitable,Suitable,Suitable
+KARNATAKA,Davanagere,14.47,75.92,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Dharwad,15.46,75.01,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Gadag,15.43,75.63,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Hassan,13,76.1,Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Haveri,14.79,75.4,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Kalaburagi,17.33,76.83,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Kodagu,12.42,75.74,Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Kolar,13.14,78.13,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Koppal,15.35,76.15,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Mandya,12.52,76.9,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Mysuru,12.3,76.64,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Raichur,16.2,77.35,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Ramanagara,12.72,77.28,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Shivamogga,13.93,75.57,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Tumakuru,13.34,77.1,Moderately Suitable,Suitable,Suitable,Suitable
+KARNATAKA,Udupi,13.34,74.75,Moderately Suitable,Not Suitable,Suitable,Suitable
+KARNATAKA,Uttara Kannada,14.81,74.13,Moderately Suitable,Not Suitable,Suitable,Suitable
+KARNATAKA,Vijayanagara,15.27,76.39,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Vijayapura,16.83,75.71,Not Suitable,Moderately Suitable,Suitable,Suitable
+KARNATAKA,Yadgir,16.77,77.14,Not Suitable,Moderately Suitable,Suitable,Suitable
+KERALA,Alappuzha,9.49,76.34,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Ernakulam,10.01,76.35,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Idukki,9.85,76.97,Suitable,Moderately Suitable,Suitable,Suitable
+KERALA,Kannur,11.87,75.37,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Kasaragod,12.5,74.99,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Kollam,8.89,76.61,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Kottayam,9.59,76.52,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Kozhikode,11.26,75.78,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Malappuram,11.05,76.07,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Palakkad,10.78,76.65,Moderately Suitable,Suitable,Suitable,Suitable
+KERALA,Pathanamthitta,9.26,76.79,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Thiruvananthapuram,8.52,76.94,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Thrissur,10.53,76.21,Moderately Suitable,Not Suitable,Suitable,Suitable
+KERALA,Wayanad,11.61,76.08,Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Agar Malwa,23.71,76.01,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Alirajpur,22.31,74.36,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Anuppur,23.1,81.69,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Ashoknagar,24.58,77.73,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Balaghat,21.81,80.19,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Barwani,22.04,74.9,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Betul,21.91,77.9,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Bhind,26.56,78.79,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Bhopal,23.26,77.41,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Burhanpur,21.31,76.23,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Chhatarpur,24.92,79.58,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Chhindwara,22.06,78.94,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Damoh,23.84,79.44,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Datia,25.67,78.46,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Dewas,22.97,76.05,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Dhar,22.6,75.3,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Dindori,22.94,81.08,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Guna,24.65,77.31,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Gwalior,26.22,78.18,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Harda,22.34,77.09,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Indore,22.72,75.86,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Jabalpur,23.18,79.99,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Jhabua,22.77,74.59,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Katni,23.83,80.39,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Khandwa,21.83,76.35,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Khargone,21.82,75.61,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Maihar,24.27,80.76,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Mandla,22.6,80.37,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Mandsaur,24.07,75.07,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Mauganj,24.68,81.38,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Morena,26.5,78,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Narmadapuram,22.75,77.73,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Narsinghpur,22.95,79.19,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Neemuch,24.47,74.87,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Niwari,25.37,78.82,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Pandhurna,21.6,78.52,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Panna,24.72,80.19,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Raisen,23.33,77.79,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Rajgarh,24.01,76.73,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Ratlam,23.33,75.04,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Rewa,24.53,81.3,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Sagar,23.84,78.74,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Satna,24.6,80.83,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Sehore,23.2,77.08,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Seoni,22.09,79.54,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Shahdol,23.3,81.36,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Shajapur,23.43,76.28,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Sheopur,25.67,76.7,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Shivpuri,25.43,77.66,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Sidhi,24.4,81.88,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Singrauli,24.12,82.63,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Tikamgarh,24.74,78.83,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Ujjain,23.18,75.78,Not Suitable,Moderately Suitable,Suitable,Suitable
+MADHYA PRADESH,Umaria,23.52,80.84,Moderately Suitable,Suitable,Suitable,Suitable
+MADHYA PRADESH,Vidisha,23.52,77.81,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Ahilyanagar,19.09,74.74,Moderately Suitable,Suitable,Suitable,Suitable
+MAHARASHTRA,Akola,20.71,77,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Amravati,20.93,77.75,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Beed,18.99,75.76,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Bhandara,21.17,79.65,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Buldhana,20.53,76.18,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Chandrapur,19.96,79.3,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Chhatrapati Sambhajinagar,19.88,75.34,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Dharashiv,18.19,76.04,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Dhule,20.9,74.78,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Gadchiroli,20.18,80,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Gondia,21.46,80.19,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Hingoli,19.72,77.15,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Jalgaon,21.01,75.56,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Jalna,19.84,75.88,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Kolhapur,16.7,74.24,Moderately Suitable,Suitable,Suitable,Suitable
+MAHARASHTRA,Latur,18.4,76.58,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Mumbai City,18.96,72.83,Moderately Suitable,Not Suitable,Suitable,Suitable
+MAHARASHTRA,Mumbai Suburban,19.06,72.84,Moderately Suitable,Not Suitable,Suitable,Suitable
+MAHARASHTRA,Nagpur,21.15,79.09,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Nanded,19.14,77.32,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Nandurbar,21.37,74.24,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Nashik,20,73.79,Moderately Suitable,Suitable,Suitable,Suitable
+MAHARASHTRA,Palghar,19.7,72.77,Moderately Suitable,Not Suitable,Suitable,Suitable
+MAHARASHTRA,Parbhani,19.27,76.77,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Pune,18.52,73.86,Moderately Suitable,Suitable,Suitable,Suitable
+MAHARASHTRA,Raigad,18.64,72.88,Moderately Suitable,Not Suitable,Suitable,Suitable
+MAHARASHTRA,Ratnagiri,16.99,73.3,Moderately Suitable,Not Suitable,Suitable,Suitable
+MAHARASHTRA,Sangli,16.85,74.57,Moderately Suitable,Suitable,Suitable,Suitable
+MAHARASHTRA,Satara,17.68,74.02,Moderately Suitable,Suitable,Suitable,Suitable
+MAHARASHTRA,Sindhudurg,16,73.67,Moderately Suitable,Not Suitable,Suitable,Suitable
+MAHARASHTRA,Solapur,17.66,75.91,Moderately Suitable,Suitable,Suitable,Suitable
+MAHARASHTRA,Thane,19.22,72.98,Moderately Suitable,Not Suitable,Suitable,Suitable
+MAHARASHTRA,Wardha,20.75,78.6,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Washim,20.11,77.13,Not Suitable,Moderately Suitable,Suitable,Suitable
+MAHARASHTRA,Yavatmal,20.39,78.12,Not Suitable,Moderately Suitable,Suitable,Suitable
+MANIPUR,Bishnupur,24.63,93.77,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Chandel,24.32,94,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Churachandpur,24.33,93.68,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Imphal East,24.82,93.97,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Imphal West,24.81,93.94,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Jiribam,24.8,93.12,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Kakching,24.5,93.98,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Kamjong,24.8,94.4,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Kangpokpi,25.13,93.96,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Noney,24.75,93.5,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Pherzawl,24.2,93.2,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Senapati,25.27,94.02,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Tamenglong,24.98,93.5,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Tengnoupal,24.35,94.1,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Thoubal,24.64,94.01,Suitable,Not Suitable,Suitable,Suitable
+MANIPUR,Ukhrul,25.1,94.36,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,East Garo Hills,25.5,90.6,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,East Jaintia Hills,25.35,92.37,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,East Khasi Hills,25.57,91.88,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,Eastern West Khasi Hills,25.57,91.63,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,North Garo Hills,25.9,90.6,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,Ri Bhoi,25.9,91.88,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,South Garo Hills,25.2,90.63,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,South West Garo Hills,25.17,90.35,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,South West Khasi Hills,25.3,91.45,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,West Garo Hills,25.51,90.22,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,West Jaintia Hills,25.45,92.2,Suitable,Not Suitable,Suitable,Suitable
+MEGHALAYA,West Khasi Hills,25.52,91.26,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Aizawl,23.73,92.72,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Champhai,23.47,93.33,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Hnahthial,22.95,92.93,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Khawzawl,23.53,93.18,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Kolasib,24.22,92.68,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Lawngtlai,22.53,92.9,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Lunglei,22.89,92.73,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Mamit,23.93,92.48,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Saiha,22.48,92.98,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Saitual,23.67,92.97,Suitable,Not Suitable,Suitable,Suitable
+MIZORAM,Serchhip,23.3,92.85,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Chumoukedima,25.79,93.77,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Dimapur,25.91,93.73,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Kiphire,25.9,94.78,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Kohima,25.67,94.11,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Longleng,26.47,94.8,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Mokokchung,26.32,94.52,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Mon,26.72,95.03,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Niuland,25.72,93.97,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Noklak,26.03,95.12,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Peren,25.51,93.73,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Phek,25.67,94.5,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Shamator,26.2,95,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Tseminyu,25.72,94,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Tuensang,26.27,94.82,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Wokha,26.1,94.26,Suitable,Not Suitable,Suitable,Suitable
+NAGALAND,Zunheboto,26,94.52,Suitable,Not Suitable,Suitable,Suitable
+ODISHA,Angul,20.84,85.1,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Balangir,20.71,83.49,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Balasore,21.49,86.93,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Bargarh,21.33,83.62,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Bhadrak,21.06,86.5,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Boudh,20.84,84.33,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Cuttack,20.46,85.88,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Deogarh,21.54,84.73,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Dhenkanal,20.66,85.6,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Gajapati,18.78,84.09,Moderately Suitable,Suitable,Suitable,Suitable
+ODISHA,Ganjam,19.36,84.99,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Jagatsinghpur,20.26,86.17,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Jajpur,20.85,86.33,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Jharsuguda,21.86,84.01,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Kalahandi,19.91,83.17,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Kandhamal,20.47,84.23,Moderately Suitable,Suitable,Suitable,Suitable
+ODISHA,Kendrapara,20.5,86.42,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Kendujhar,21.63,85.58,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Khordha,20.3,85.82,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Koraput,18.81,82.71,Moderately Suitable,Suitable,Suitable,Suitable
+ODISHA,Malkangiri,18.35,81.88,Moderately Suitable,Suitable,Suitable,Suitable
+ODISHA,Mayurbhanj,21.93,86.72,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Nabarangpur,19.23,82.55,Moderately Suitable,Suitable,Suitable,Suitable
+ODISHA,Nayagarh,20.13,85.1,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Nuapada,20.81,82.54,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Puri,19.81,85.83,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+ODISHA,Rayagada,19.17,83.42,Moderately Suitable,Suitable,Suitable,Suitable
+ODISHA,Sambalpur,21.47,83.98,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Subarnapur,20.83,83.92,Not Suitable,Moderately Suitable,Suitable,Suitable
+ODISHA,Sundargarh,22.12,84.04,Not Suitable,Moderately Suitable,Suitable,Suitable
+PUNJAB,Amritsar,31.63,74.87,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Barnala,30.38,75.55,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Bathinda,30.21,74.95,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Faridkot,30.67,74.76,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Fatehgarh Sahib,30.65,76.39,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Fazilka,30.4,74.03,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Ferozepur,30.93,74.61,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Gurdaspur,32.04,75.41,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Hoshiarpur,31.53,75.92,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Jalandhar,31.33,75.58,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Kapurthala,31.38,75.38,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Ludhiana,30.9,75.86,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Malerkotla,30.53,75.88,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Mansa,29.99,75.39,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Moga,30.82,75.17,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Pathankot,32.27,75.65,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Patiala,30.34,76.39,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Rupnagar,30.97,76.53,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Sahibzada Ajit Singh Nagar,30.7,76.72,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Sangrur,30.25,75.84,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Shaheed Bhagat Singh Nagar,31.12,76.12,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Sri Muktsar Sahib,30.47,74.52,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+PUNJAB,Tarn Taran,31.45,74.93,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+RAJASTHAN,Ajmer,26.45,74.64,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Alwar,27.55,76.61,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Balotra,25.83,72.24,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Banswara,23.55,74.44,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Baran,25.1,76.51,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Barmer,25.75,71.39,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Beawar,26.1,74.32,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Bharatpur,27.22,77.49,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Bhilwara,25.35,74.64,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Bikaner,28.02,73.31,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Bundi,25.44,75.64,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Chittorgarh,24.88,74.63,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Churu,28.3,74.97,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Dausa,26.89,76.34,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Deeg,27.48,77.33,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Dholpur,26.7,77.89,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Didwana-Kuchaman,27.4,74.57,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Dungarpur,23.84,73.71,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Hanumangarh,29.58,74.32,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Jaipur,26.91,75.79,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Jaisalmer,26.92,70.9,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Jalore,25.35,72.62,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Jhalawar,24.6,76.16,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Jhunjhunu,28.13,75.4,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Jodhpur,26.24,73.02,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Karauli,26.5,77.02,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Khairthal-Tijara,27.82,76.65,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Kota,25.18,75.84,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Kotputli-Behror,27.7,76.2,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Nagaur,27.2,73.73,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Pali,25.77,73.32,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Phalodi,27.13,72.37,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Pratapgarh,24.03,74.78,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Rajsamand,25.07,73.88,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Salumbar,24.14,74.05,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Sawai Madhopur,26.02,76.35,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Sikar,27.61,75.14,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Sirohi,24.89,72.86,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Sri Ganganagar,29.92,73.88,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Tonk,26.17,75.79,Not Suitable,Moderately Suitable,Suitable,Suitable
+RAJASTHAN,Udaipur,24.58,73.68,Not Suitable,Moderately Suitable,Suitable,Suitable
+SIKKIM,Gangtok,27.33,88.61,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+SIKKIM,Gyalshing,27.29,88.26,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+SIKKIM,Mangan,27.51,88.53,Suitable,Moderately Suitable,Suitable,Not Suitable
+SIKKIM,Namchi,27.17,88.36,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+SIKKIM,Pakyong,27.23,88.59,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+SIKKIM,Soreng,27.17,88.18,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+TAMIL NADU,Ariyalur,11.14,79.08,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Chengalpattu,12.69,79.98,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Chennai,13.08,80.27,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Coimbatore,11.02,76.96,Moderately Suitable,Suitable,Suitable,Suitable
+TAMIL NADU,Cuddalore,11.75,79.76,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Dharmapuri,12.13,78.16,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Dindigul,10.37,77.98,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Erode,11.34,77.72,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Kallakurichi,11.74,78.96,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Kancheepuram,12.83,79.7,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Kanyakumari,8.18,77.43,Moderately Suitable,Not Suitable,Suitable,Suitable
+TAMIL NADU,Karur,10.96,78.08,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Krishnagiri,12.52,78.21,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Madurai,9.93,78.12,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Mayiladuthurai,11.1,79.65,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Nagapattinam,10.77,79.84,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Namakkal,11.22,78.17,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Nilgiris,11.41,76.69,Suitable,Moderately Suitable,Suitable,Suitable
+TAMIL NADU,Perambalur,11.23,78.88,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Pudukkottai,10.38,78.82,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Ramanathapuram,9.37,78.83,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Ranipet,12.93,79.33,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Salem,11.66,78.15,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Sivaganga,9.85,78.48,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Tenkasi,8.96,77.31,Moderately Suitable,Suitable,Suitable,Suitable
+TAMIL NADU,Thanjavur,10.79,79.14,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Theni,10.01,77.48,Moderately Suitable,Suitable,Suitable,Suitable
+TAMIL NADU,Thoothukudi,8.76,78.13,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Tiruchirappalli,10.79,78.69,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Tirunelveli,8.73,77.7,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Tirupathur,12.5,78.57,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Tiruppur,11.11,77.34,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Tiruvallur,13.14,79.91,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Tiruvannamalai,12.23,79.07,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Tiruvarur,10.77,79.64,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Vellore,12.92,79.13,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Viluppuram,11.94,79.49,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TAMIL NADU,Virudhunagar,9.59,77.96,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+TELANGANA,Adilabad,19.67,78.53,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Bhadradri Kothagudem,17.55,80.62,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Hanumakonda,18,79.58,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Hyderabad,17.39,78.49,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Jagtial,18.79,78.91,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Jangaon,17.73,79.15,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Jayashankar Bhupalpally,18.43,79.87,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Jogulamba Gadwal,16.23,77.8,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Kamareddy,18.32,78.34,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Karimnagar,18.44,79.13,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Khammam,17.25,80.15,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Kumuram Bheem Asifabad,19.36,79.28,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Mahabubabad,17.6,80,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Mahabubnagar,16.74,77.99,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Mancherial,18.87,79.46,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Medak,18.05,78.26,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Medchal-Malkajgiri,17.63,78.48,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Mulugu,18.19,79.94,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Nagarkurnool,16.48,78.32,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Nalgonda,17.06,79.27,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Narayanpet,16.74,77.5,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Nirmal,19.1,78.34,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Nizamabad,18.67,78.09,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Peddapalli,18.62,79.37,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Rajanna Sircilla,18.39,78.83,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Rangareddy,17.26,78.4,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Sangareddy,17.62,78.09,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Siddipet,18.1,78.85,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Suryapet,17.14,79.62,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Vikarabad,17.34,77.9,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Wanaparthy,16.36,78.06,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Warangal,17.98,79.6,Not Suitable,Moderately Suitable,Suitable,Suitable
+TELANGANA,Yadadri Bhuvanagiri,17.51,78.89,Not Suitable,Moderately Suitable,Suitable,Suitable
+TRIPURA,Dhalai,23.92,91.85,Moderately Suitable,Not Suitable,Suitable,Suitable
+TRIPURA,Gomati,23.53,91.48,Moderately Suitable,Not Suitable,Suitable,Suitable
+TRIPURA,Khowai,24.07,91.6,Moderately Suitable,Not Suitable,Suitable,Suitable
+TRIPURA,North Tripura,24.37,92.17,Moderately Suitable,Not Suitable,Suitable,Suitable
+TRIPURA,Sepahijala,23.68,91.28,Moderately Suitable,Not Suitable,Suitable,Suitable
+TRIPURA,South Tripura,23.25,91.45,Moderately Suitable,Not Suitable,Suitable,Suitable
+TRIPURA,Unakoti,24.33,92,Moderately Suitable,Not Suitable,Suitable,Suitable
+TRIPURA,West Tripura,23.83,91.28,Moderately Suitable,Not Suitable,Suitable,Suitable
+UTTAR PRADESH,Agra,27.18,78.01,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Aligarh,27.88,78.08,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Ambedkar Nagar,26.43,82.54,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Amethi,26.16,81.8,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Amroha,28.9,78.47,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Auraiya,26.46,79.51,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Ayodhya,26.8,82.2,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Azamgarh,26.07,83.19,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Baghpat,28.95,77.22,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Bahraich,27.57,81.6,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Ballia,25.76,84.15,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Balrampur,27.43,82.18,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Banda,25.48,80.34,Not Suitable,Moderately Suitable,Suitable,Suitable
+UTTAR PRADESH,Barabanki,26.93,81.19,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Bareilly,28.37,79.43,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Basti,26.8,82.73,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Bhadohi,25.4,82.57,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Bijnor,29.37,78.14,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Budaun,28.04,79.12,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Bulandshahr,28.41,77.85,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Chandauli,25.27,83.27,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Chitrakoot,25.2,80.9,Not Suitable,Moderately Suitable,Suitable,Suitable
+UTTAR PRADESH,Deoria,26.5,83.78,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Etah,27.56,78.66,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Etawah,26.78,79.02,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Farrukhabad,27.38,79.63,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Fatehpur,25.93,80.81,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Firozabad,27.15,78.4,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Gautam Buddha Nagar,28.57,77.32,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Ghaziabad,28.67,77.45,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Ghazipur,25.58,83.58,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Gonda,27.13,81.96,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Gorakhpur,26.76,83.37,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Hamirpur,25.95,80.15,Not Suitable,Moderately Suitable,Suitable,Suitable
+UTTAR PRADESH,Hapur,28.73,77.78,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Hardoi,27.4,80.13,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Hathras,27.6,78.05,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Jalaun,25.99,79.45,Not Suitable,Moderately Suitable,Suitable,Suitable
+UTTAR PRADESH,Jaunpur,25.75,82.68,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Jhansi,25.45,78.57,Not Suitable,Moderately Suitable,Suitable,Suitable
+UTTAR PRADESH,Kannauj,27.05,79.92,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Kanpur Dehat,26.43,79.67,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Kanpur Nagar,26.45,80.35,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Kasganj,27.81,78.65,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Kaushambi,25.53,81.38,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Kushinagar,26.9,83.98,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Lakhimpur Kheri,27.95,80.78,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Lalitpur,24.69,78.41,Not Suitable,Moderately Suitable,Suitable,Suitable
+UTTAR PRADESH,Lucknow,26.85,80.95,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Maharajganj,27.13,83.56,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Mahoba,25.29,79.87,Not Suitable,Moderately Suitable,Suitable,Suitable
+UTTAR PRADESH,Mainpuri,27.23,79.02,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Mathura,27.49,77.67,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Mau,25.94,83.56,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Meerut,28.98,77.71,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Mirzapur,25.15,82.57,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Moradabad,28.84,78.78,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Muzaffarnagar,29.47,77.7,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Pilibhit,28.63,79.8,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Pratapgarh,25.9,81.99,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Prayagraj,25.44,81.85,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Raebareli,26.23,81.23,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Rampur,28.8,79.03,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Saharanpur,29.96,77.55,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Sambhal,28.59,78.57,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Sant Kabir Nagar,26.77,83.07,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Shahjahanpur,27.88,79.91,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Shamli,29.45,77.31,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Shravasti,27.7,81.93,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Siddharthnagar,27.31,83.1,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Sitapur,27.57,80.68,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Sonbhadra,24.69,83.07,Not Suitable,Moderately Suitable,Suitable,Suitable
+UTTAR PRADESH,Sultanpur,26.26,82.07,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Unnao,26.55,80.49,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTAR PRADESH,Varanasi,25.32,82.97,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Almora,29.6,79.66,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Bageshwar,29.84,79.77,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Chamoli,30.41,79.32,Suitable,Moderately Suitable,Suitable,Not Suitable
+UTTARAKHAND,Champawat,29.34,80.09,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Dehradun,30.32,78.03,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Haridwar,29.95,78.16,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Nainital,29.38,79.46,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Pauri Garhwal,30.15,78.78,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Pithoragarh,29.58,80.22,Suitable,Moderately Suitable,Suitable,Not Suitable
+UTTARAKHAND,Rudraprayag,30.28,78.98,Suitable,Moderately Suitable,Suitable,Not Suitable
+UTTARAKHAND,Tehri Garhwal,30.38,78.43,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Udham Singh Nagar,28.98,79.4,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+UTTARAKHAND,Uttarkashi,30.73,78.45,Suitable,Moderately Suitable,Suitable,Not Suitable
+WEST BENGAL,Alipurduar,26.49,89.53,Moderately Suitable,Not Suitable,Suitable,Suitable
+WEST BENGAL,Bankura,23.23,87.07,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Birbhum,23.91,87.53,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Cooch Behar,26.32,89.45,Moderately Suitable,Not Suitable,Suitable,Suitable
+WEST BENGAL,Dakshin Dinajpur,25.22,88.77,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Darjeeling,27.04,88.26,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+WEST BENGAL,Hooghly,22.9,88.39,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Howrah,22.59,88.31,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Jalpaiguri,26.52,88.72,Moderately Suitable,Not Suitable,Suitable,Suitable
+WEST BENGAL,Jhargram,22.45,86.99,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Kalimpong,27.06,88.47,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+WEST BENGAL,Kolkata,22.57,88.36,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Malda,25.01,88.14,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Murshidabad,24.1,88.25,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Nadia,23.4,88.5,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,North 24 Parganas,22.72,88.48,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Paschim Bardhaman,23.68,86.98,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Paschim Medinipur,22.42,87.32,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Purba Bardhaman,23.23,87.86,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,Purba Medinipur,22.3,87.92,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+WEST BENGAL,Purulia,23.33,86.36,Not Suitable,Moderately Suitable,Suitable,Suitable
+WEST BENGAL,South 24 Parganas,22.52,88.33,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+WEST BENGAL,Uttar Dinajpur,25.62,88.13,Not Suitable,Moderately Suitable,Suitable,Suitable
+ANDAMAN AND NICOBAR ISLANDS,Nicobar,9.17,92.77,Moderately Suitable,Not Suitable,Suitable,Suitable
+ANDAMAN AND NICOBAR ISLANDS,North and Middle Andaman,12.92,92.9,Moderately Suitable,Not Suitable,Suitable,Suitable
+ANDAMAN AND NICOBAR ISLANDS,South Andaman,11.62,92.73,Moderately Suitable,Not Suitable,Suitable,Suitable
+CHANDIGARH,Chandigarh,30.73,76.78,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DADRA AND NAGAR HAVELI AND DAMAN AND DIU,Dadra and Nagar Haveli,20.27,73.02,Moderately Suitable,Not Suitable,Suitable,Suitable
+DADRA AND NAGAR HAVELI AND DAMAN AND DIU,Daman,20.4,72.83,Moderately Suitable,Not Suitable,Suitable,Suitable
+DADRA AND NAGAR HAVELI AND DAMAN AND DIU,Diu,20.71,70.99,Not Suitable,Moderately Suitable,Suitable,Suitable
+DELHI,Central Delhi,28.64,77.24,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,East Delhi,28.64,77.29,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,New Delhi,28.61,77.21,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,North Delhi,28.8,77.13,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,North East Delhi,28.67,77.27,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,North West Delhi,28.73,77.03,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,Shahdara,28.67,77.3,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,South Delhi,28.52,77.21,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,South East Delhi,28.57,77.23,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,South West Delhi,28.56,77.16,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+DELHI,West Delhi,28.65,77.12,Not Suitable,Moderately Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Anantnag,33.73,75.15,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Bandipora,34.42,74.64,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Baramulla,34.2,74.34,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Budgam,34.02,74.72,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Doda,33.15,75.55,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Ganderbal,34.23,74.77,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Jammu,32.73,74.87,Not Suitable,Moderately Suitable,Suitable,Suitable
+JAMMU AND KASHMIR,Kathua,32.37,75.52,Not Suitable,Moderately Suitable,Suitable,Suitable
+JAMMU AND KASHMIR,Kishtwar,33.31,75.77,Suitable,Moderately Suitable,Suitable,Not Suitable
+JAMMU AND KASHMIR,Kulgam,33.64,75.02,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Kupwara,34.52,74.26,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Poonch,33.77,74.09,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Pulwama,33.87,74.89,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Rajouri,33.38,74.31,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Ramban,33.24,75.24,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Reasi,33.08,74.84,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Samba,32.56,75.12,Not Suitable,Moderately Suitable,Suitable,Suitable
+JAMMU AND KASHMIR,Shopian,33.72,74.83,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Srinagar,34.08,74.8,Suitable,Suitable,Suitable,Moderately Suitable
+JAMMU AND KASHMIR,Udhampur,32.92,75.14,Suitable,Moderately Suitable,Suitable,Moderately Suitable
+LADAKH,Leh,34.15,77.58,Suitable,Suitable,Moderately Suitable,Not Suitable
+LADAKH,Kargil,34.56,76.13,Suitable,Suitable,Moderately Suitable,Not Suitable
+LADAKH,Zanskar,33.47,76.88,Suitable,Suitable,Moderately Suitable,Not Suitable
+LADAKH,Drass,34.43,75.76,Suitable,Suitable,Moderately Suitable,Not Suitable
+LADAKH,Sham,34.32,76.88,Suitable,Suitable,Moderately Suitable,Not Suitable
+LADAKH,Nubra,34.54,77.56,Suitable,Suitable,Moderately Suitable,Not Suitable
+LADAKH,Changthang,33.2,78.65,Suitable,Suitable,Moderately Suitable,Not Suitable
+LAKSHADWEEP,Lakshadweep,10.57,72.64,Moderately Suitable,Not Suitable,Suitable,Suitable
+PUDUCHERRY,Puducherry,11.93,79.83,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+PUDUCHERRY,Karaikal,10.92,79.84,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable
+PUDUCHERRY,Mahe,11.7,75.54,Moderately Suitable,Not Suitable,Suitable,Suitable
+PUDUCHERRY,Yanam,16.73,82.22,Not Suitable,Moderately Suitable,Moderately Suitable,Suitable

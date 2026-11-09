@@ -1,0 +1,354 @@
+/* Full page */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(
+        to bottom,
+        #0B1026 0%,
+        #1D3557 15%,
+        #49306B 30%,
+        #9B2948 45%,
+        #E05245 60%,
+        #F78C42 72%,
+        #F9C66A 82%,
+        #4A2928 92%,
+        #080808 100%
+    );
+    background-attachment: fixed;
+    font-family: Georgia, serif;
+}
+
+/* First Page */
+.landing-page {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 22px;
+    padding: 35px 24px;
+}
+
+/* Logo and name */
+.brand {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    position: static;
+    transform: none;
+    animation: none;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* Large glass circle */
+.glass-circle {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    position: relative;
+}
+
+/* Camera body */
+.camera {
+    position: absolute;
+    width: 100px;
+    height: 70px;
+    background: linear-gradient(
+        145deg,
+        #F5F0E8,
+        #C7C2C0,
+        #8F929B
+    );
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    border-radius: 22px;
+    box-shadow:
+        0 12px 25px rgba(0, 0, 0, 0.3),
+        inset 0 3px 5px rgba(255, 255, 255, 0.8);
+    transform: scale(1.3);
+}
+
+/* Camera top */
+.camera-top {
+    position: absolute;
+    top: -15px;
+    left: 10px;
+    width: 55px;
+    height: 15px;
+    background: linear-gradient(
+        to bottom,
+        #EAE6E0,
+        #A8A6AD
+    );
+    border-radius: 10px 10px 0 0;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+}
+
+/* Viewfinder */
+.viewfinder {
+    position: absolute;
+    top: 5px;
+    left: 9px;
+    width: 15px;
+    height: 8px;
+    background: #303747;
+    border-radius: 4px;
+}
+
+/* Shutter button */
+.camera-button {
+    position: absolute;
+    top: -7px;
+    right: 8px;
+    width: 12px;
+    height: 5px;
+    background: #F78C42;
+    border-radius: 4px 4px 0 0;
+}
+
+/* Camera flash */
+.camera-flash {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    width: 15px;
+    height: 10px;
+    background: #FFF8DF;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 220, 0.7);
+}
+
+/* Camera lens */
+.camera-lens {
+    position: absolute;
+    top: 25px;
+    left: 35px;
+    width: 30px;
+    height: 30px;
+    background: linear-gradient(
+        145deg,
+        #C6CDD8,
+        #454D60
+    );
+    border: 4px solid #F5F0E8;
+    border-radius: 50%;
+    box-shadow:
+        0 0 0 3px rgba(50, 55, 70, 0.7),
+        inset 0 2px 5px rgba(255, 255, 255, 0.5);
+}
+
+/* Inner lens */
+.lens-inner {
+    position: absolute;
+    inset: 9px;
+    background: radial-gradient(
+        circle at 30% 25%,
+        #7796B7,
+        #263957 55%,
+        #080D1A
+    );
+    border: 3px solid #7E899B;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+/* Lens reflection */
+.lens-reflection {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    width: 15px;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 50%;
+    transform: rotate(-35deg);
+    filter: blur(1px);
+}
+
+/* Photo frame */
+.photo {
+    position: absolute;
+    width: 40px;
+    height: 60px;
+    padding: 3px;
+    background: #FFF8E8;
+    border-radius: 4px;
+    top: 5px;
+    right: -15px;
+    transform: rotate(12deg);
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.3);
+    z-index: 10;
+}
+
+/* Photo scenery */
+.photo-scene {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: linear-gradient(
+        to bottom,
+        #65B7D8 0%,
+        #B7DDE5 45%,
+        #F7B36B 75%,
+        #F28B50 100%
+    );
+}
+
+/* Sun */
+.photo-sun {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 10px;
+    right: 22px;
+    background: #FFE6A0;
+    border-radius: 50%;
+    box-shadow: 0 0 12px 4px rgba(255, 230, 160, 0.6);
+    z-index: 3;
+}
+
+/* Mountains */
+.mountain-back {
+    position: absolute;
+    bottom: 10px;
+    left: -8px;
+    width: 35px;
+    height: 30px;
+    background: #718BA0;
+    clip-path: polygon(0 100%, 45% 10%, 100% 100%);
+    z-index: 1;
+}
+
+.mountain-front {
+    position: absolute;
+    bottom: 10px;
+    right: -12px;
+    width: 40px;
+    height: 45px;
+    background: #354E60;
+    clip-path: polygon(0 100%, 55% 0, 100% 100%);
+    z-index: 2;
+}
+
+/* Ground */
+.photo-ground {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 22px;
+    background: #355B4A;
+    z-index: 4;
+}
+
+/* Website name */
+.website-name h1 {
+    margin: 0;
+    color: #FFF8DF;
+    font-family: "MonteCarlo", cursive;
+    font-size: 55px;
+    letter-spacing: 6px;
+    text-align: center;
+}
+
+/* Catchy Intro */
+.intro-container {
+    position: static;
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: center;
+    color: #f3efe7;
+    opacity: 1;
+    visibility: visible;
+}
+
+/* EXPLORE BUTTON */
+.login-container {
+    position: static;
+    width: 340px;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    opacity: 1;
+    visibility: visible;
+}
+
+.last {
+    margin-top: 0;
+}
+
+.explore-button {
+    width: 100%;
+    padding: 14px 20px;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    background: rgba(13, 10, 10, 0.13);
+    color: #FFF8DF;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: background 0.25s ease, color 0.25s ease;
+}
+
+.explore-button:hover {
+    background: #FFF0D8;
+    color: #333A62;
+}
+
+/* MOBILE RESPONSIVENESS */
+@media (max-width: 600px) {
+    .landing-page {
+        padding: 25px 18px;
+        gap: 18px;
+    }
+
+    .glass-circle {
+        width: 170px;
+        height: 170px;
+    }
+
+    .camera {
+        transform: scale(0.95);
+    }
+
+    .website-name h1 {
+        font-size: 34px;
+        letter-spacing: 4px;
+    }
+
+    .intro-container h2 {
+        font-size: 19px;
+        line-height: 1.45;
+    }
+
+    .intro-container p {
+        font-size: 14px;
+        line-height: 1.7;
+    }
+
+    .login-container {
+        width: 100%;
+        max-width: 340px;
+    }
+}

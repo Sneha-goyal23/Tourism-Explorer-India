@@ -1,0 +1,161 @@
+<!-- This file contains the main interface code for the website-->
+<!-- Ribbon and theme of the page-->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourism Explorer India</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Lavishly+Yours&family=MonteCarlo&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="explore.css">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+
+    <script src="script.js" defer></script>
+
+ </head>
+ <body>
+    <header class="top-ribbon">
+        <div class="brand">
+            <div class="glass-circle">
+                <!-- Camera content goes here -->
+                <div class ="camera">
+                    <div class="camera-top">
+                        <div class="viewfinder"></div>
+                        <div class="camera-button"></div>
+                    </div>
+
+                    <div class="camera-flash"></div>
+
+                    <div class="camera-lens">
+                        <div class="lens-inner">
+                            <div class="lens-reflection"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="photo">
+                        <div class="photo-scene">
+                            <div class="photo-sun"></div>
+                            <div class="photo-mountain mountain-back"></div>
+                            <div class="photo-mountain mountain-front"></div>
+                            <div class="photo-ground"></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Web site name-->
+            <div class="website-name">
+                <h1>R.a.a.h.i</h1>
+            </div>
+        </div>
+    </header>
+
+    
+    <!-- Main content goes here -->
+     <!-- Left Panel -->
+      <div class="main-container">
+            <aside class="left-panel">
+                    <h2> Let's see our next destination 👀</h2>
+                    <label for="search-state">Select the State</label>
+                    <select id="search-state" name="search-state">
+                        <option value="">State</option>
+                    </select>
+
+                    <label for="search-district">Select the District</label>
+                    <select id="search-district" name="search-district">
+                        <option value=""></option>
+                    </select>
+
+                    <label for="search-season">Select the Season</label>
+                    <select id="search-season" name="search-season">
+                        <option value="select">Season</option>
+                        <option value="summer">Summer</option>
+                        <option value="monsoon">Monsoon</option>
+                        <option value="winter">Winter</option>
+                        <option value="post-monsoon">Post-monsoon</option>
+                    </select>
+
+                    <label for="search-place">Select the Place</label>
+                    <select id="search-place" name="search-place">
+                        <option value="">Select Category</option>
+                        <option value="places">Cities & Towns</option>
+                        <option value="worship">Places of Worship</option>
+                        <option value="natural">Natural Attractions</option>
+                        <option value="landuse">Parks & Forests</option>
+                        <option value="facilities">Facilities (ATMs, Banks, etc.)</option>
+                    </select>
+                                       
+                   <button type="button" class="explore-button"
+                            onclick="getRouteToDistrict()">
+                        Get Route to District
+                    </button>
+                    
+                    <button type="button" class="feedback"
+                        onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSe_LDgDwFiG_kCsqqkdpioqspUKnI_uVGBQcKyBcEa6811L4g/viewform?usp=publish-editor', '_blank')">
+                        Feedback
+                    </button>
+            </aside>
+
+            <!-- Middle Panel-->
+            <main class="middle-panel">
+                <div id="map"></div>
+            </main>
+
+            <!-- Right Panel -->
+            <aside class="right-panel">
+                <h3>Your choices!!</h3>
+
+                <div class="choice-card">
+                    <label for="selected-state">Selected State:</label>
+                    <span id="selected-state">None</span>
+                </div>
+
+                <div class="choice-card">
+                    <label for="selected-district">Selected District:</label>
+                    <span id="selected-district">None</span>
+                </div>
+
+                <div class="choice-card">
+                    <label for="selected-season">Selected Season:</label>
+                    <span id="selected-season">None</span>
+                </div>
+
+                <div class="choice-card">
+                    <label for="selected-place">Selected Place:</label>
+                    <span id="selected-place">None</span>
+                </div>
+
+                <div class="choice-card">
+                    <label for="distance">Distance from your location:</label>
+                    <span id="distance">None</span>
+                </div>
+
+                <h5>Weather and Suitability</h5>
+
+                <div class="info-card">
+                    <label for="temperature">Temperature:</label>
+                    <span id="temperature">—</span>
+                </div>
+
+                <div class="info-card">
+                    <label for="rainfall">Rainfall:</label>
+                    <span id="rainfall">—</span>
+                </div>
+
+                <div class="info-card">
+                    <label for="suitability">Seasonal Suitability:</label>
+                    <span id="suitability">—</span>
+                </div>
+
+                <h6>~ Snow</h6>
+            </aside>
+        </div>
+
+ </body>
+ </html>
